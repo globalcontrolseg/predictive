@@ -22,4 +22,4 @@ chmod +x install-gnudialer.shinstall-gnudialer.sh
 
 # Agora é só integrar ao seu CRM
 
-Este é o próximo passo no qual estou trabalhando, um CREADME.mdRM OPENSOURCE integrado. Aguarde!
+Este é o próximo passo no qual estou trabalhando, um CRM OPENSOURCE integrado. Aguarde!
