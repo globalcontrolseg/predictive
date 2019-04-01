@@ -1,2 +1,3 @@
-# predictive
-Discador automático
+# Predictive
+
+Discador automático baseado em Asterisk
