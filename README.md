@@ -15,7 +15,7 @@ cd /usr/src/
 
 wget -c  wget -c http://renatoamorim.com/dialer/install-gnudialer.sh
 
-chmod +x install-gnudialer.shinstall-gnudialer.sh
+chmod +x install-gnudialer.sh
 
 ./install-gnudialer.sh
 
